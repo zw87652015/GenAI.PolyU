@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PolyU GenAI</string>
+    <string name="menu_refresh">刷新</string>
+    <string name="menu_home">主页</string>
+    <string name="menu_sign_out">退出登录</string>
+    <string name="sign_out_title">退出登录</string>
+    <string name="sign_out_message">这会清除此应用中已保存的登录状态。你可以用 NetID 再次登录。</string>
+    <string name="sign_out_confirm">退出登录</string>
+    <string name="cancel">取消</string>
+    <string name="retry">重试</string>
+    <string name="error_offline">无法连接 PolyU GenAI。请检查网络后再试。</string>
+    <string name="error_generic">页面未能加载。</string>
+    <string name="ssl_error">安全连接失败，已取消打开此页。</string>
+    <string name="download_started">已开始下载</string>
+    <string name="download_unsupported">此下载链接无法在应用内保存。</string>
+    <string name="choose_file">选择文件</string>
+    <string name="no_app">没有应用可以打开此链接。</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PolyUGenAI" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/polyu_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/polyu_red</item>
+        <item name="android:navigationBarColor">@color/polyu_red_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+</resources>

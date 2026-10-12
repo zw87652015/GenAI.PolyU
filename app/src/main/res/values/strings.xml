@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PolyU GenAI</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_sign_out">Sign out</string>
+    <string name="sign_out_title">Sign out</string>
+    <string name="sign_out_message">This clears the saved sign-in in this app. You can sign in again with your NetID.</string>
+    <string name="sign_out_confirm">Sign out</string>
+    <string name="cancel">Cancel</string>
+    <string name="retry">Retry</string>
+    <string name="error_offline">Could not reach PolyU GenAI. Check the network and try again.</string>
+    <string name="error_generic">This page could not be loaded.</string>
+    <string name="ssl_error">The secure connection failed, so the page was not opened.</string>
+    <string name="download_started">Download started</string>
+    <string name="download_unsupported">This download cannot be saved from the app.</string>
+    <string name="choose_file">Choose a file</string>
+    <string name="no_app">No app can open this link.</string>
+</resources>
